@@ -6,7 +6,7 @@ input6 = '255'
 input7 = ''
 input8 = '10.10t.10.10'
 
-input1 = input8
+input1 = input3
 
 segments = 0
 
